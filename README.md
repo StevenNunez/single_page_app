@@ -3,6 +3,6 @@
 ## Getting started
 - Run `bundle install`
 - Run `rackup`
-- Visit (http://localhost:9292)[http://localhost:9292]
+- Visit [http://localhost:9292](http://localhost:9292)
 
 Make it work!
