@@ -1,1 +1,7 @@
-console.log("I'm loading");
+$(function(){
+
+  $.ajax('/templates/home.html').success(function(htmlText){
+    $('#content').html(htmlText)
+  })
+
+})
