@@ -1,0 +1,22 @@
+body{
+  height: 700px;
+}
+
+#sidebar{
+  padding-top: 40px;
+  height: 100%
+}
+
+#content{
+  border: 1px solid black;
+  height: 100%
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  padding: 10px 0;
+
+}
